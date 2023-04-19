@@ -1,0 +1,26 @@
+.linebreak{
+    background-color: orange;
+    height: 2px;
+    width: 70px;
+    flex-basis: 10%;
+}
+.contener{
+    background-color: white;
+}
+.col-col1{
+    width: 20%;
+    height: auto;
+    float: left;
+}
+.col-col2{
+    padding-left: 50px;
+}
+.box{ 
+    width: 452px;
+    margin: 5px 0;
+}
+.submit{
+    height: 35px;
+    background-color: rgb(77, 165, 237);
+    color: white;
+}

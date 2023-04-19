@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contener{
+    background-color: rgb(215, 223, 142);
+    margin: 15px;
+    border: 20px;
+}
+.col-col1{
+    width: 30%;
+    float: left;
+}
+.col-col2{
+    
+    width: 68%;
+    float: right;
+}
+h1{
+    padding-bottom: 20px;
+}
+p{
+    padding-bottom: 15px;
+}
+h3{
+    padding-bottom: 15px;
+}
+.smail-col1{
+    padding: 20px 15px;
+    width: 40%;
+    float: left;
+
+}
+.smail-col2{
+    padding: 20px 15px;
+    width: 40%;
+    float: left;
+
+}
+.linebreak {
+    background-color: rgb(95, 95, 223); 
+height: 2px;
+flex-basis: 10%;
+width: 50px;
+}

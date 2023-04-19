@@ -1,0 +1,32 @@
+.box{
+    margin: 20px;
+}
+.row1{
+display: flex;
+padding: 10px 0;
+}
+.Fname{
+    margin-right: 15px;
+    width: 49%;
+}
+.email{
+    margin-left: 15px;
+    width: 49%;
+}
+.subject{
+    padding: 10px 0;
+}
+.message{
+    padding: 10px 0;
+    height: 70px;
+}
+.submit{
+    padding: 10px 0;
+    float: left;
+    width: 100%;
+}
+p{
+    float: right;
+    text-align: right;
+    margin-top: 0;
+}

@@ -1,0 +1,58 @@
+body{
+    padding: 20px;
+}
+.col{
+    padding: 10px;
+    
+}
+.col-col1{
+    float: left;
+    padding: 15px 0;
+    width: 48%;
+}
+.Fname{
+    margin: 15px;
+}
+.email{
+    margin: 15px;
+}
+.country{
+    margin: 15px;
+    width: 101%;
+    height: 35px;
+}
+.col-col2{
+    float: left;
+    padding: 15px;
+    width: 48%;
+}
+.Lname{
+    margin: 15px;
+}
+.phone{
+    margin: 15px;
+}
+.course{
+    margin: 15px;
+    width: 101%;
+    height: 35px;
+}
+.course::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+input{
+    width: 100%;
+    height: 30px;
+}
+textarea{
+    width: 100%;
+}
+.contener2{
+    padding: 15px;
+    width: 97%;
+}
+.submit{
+    width: 100%;
+}
